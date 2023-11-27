@@ -1,0 +1,5 @@
+.theia
+.vscode
+__pycache__/
+*.html
+*.xml
